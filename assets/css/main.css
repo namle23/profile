@@ -1777,3 +1777,8 @@ body.is-article-visible #footer {
 body.is-loading #footer {
   opacity: 0;
 }
+
+.porfolio {
+  width: 100%;
+  height: auto;
+}
